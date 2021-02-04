@@ -1,4 +1,4 @@
-# Stack-Overflow-survey-data-2020
+# Stack-Overflow-survey-2020
 
 ### Table of Contents
 
